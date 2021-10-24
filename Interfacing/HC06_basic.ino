@@ -1,4 +1,7 @@
-//Basic code to check and interface the working of HC-06 bluetooth module//
+//Contributed by ShripadJagtap & Phantonym21
+//Basic code to check and interface the working of HC-06 bluetooth module
+
+
 #include <SoftwareSerial.h>
 SoftwareSerial BTSerial (2,3);
 void setup() {
